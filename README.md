@@ -1,5 +1,7 @@
 # testrepo
-> <dict>
->      <key>NSAllowsArbitraryLoads</key>
->      <true/>
-> </dict>
+```
+<dict>
+    <key>NSAllowsArbitraryLoads</key>      
+    <true/>
+</dict>
+```
