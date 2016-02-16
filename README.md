@@ -1,5 +1,10 @@
-# headless-drupal-ionic2
+# headless-drupal-todo-ionic2
 Extends Headless Drupal 8 and builds a sample ToDo App in Ionic2
+
+<b> Installing Ionic </b>
+Refer this URL - http://ionicframework.com/docs/v2/getting-started/installation/
+
+
 
 To make HTTP requests oniOS9 using Ionic2, following lines needs to be added in the .plist file.
 
